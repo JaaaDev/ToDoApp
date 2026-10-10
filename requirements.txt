@@ -1,0 +1,3 @@
+# Dependencias de la ToDo App (Streamlit + pytest para la suite de tests)
+streamlit>=1.30
+pytest>=7.0
